@@ -1,0 +1,3 @@
+Function,Execution Time (seconds),Memory Usage (bytes)
+ws_fetch_order_books(instruments),2.733150154352188,10719013
+fetch_order_books(instruments),5.076576974242926,213762
